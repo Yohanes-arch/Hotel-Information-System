@@ -1,7 +1,7 @@
 # Hotel-Information-System
 Hotel Information System Website
 
-#Requirement to run on localhost
+# Requirement to run on localhost
 1. install xampp
 2. move the root directory file to xampp installation directory, ..xampp/htdocs
 4. open xampp control panel
